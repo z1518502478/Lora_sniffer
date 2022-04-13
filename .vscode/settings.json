@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.uvoptx": "bat",
+        "sx1276.h": "c",
+        "sx1276-board.h": "c",
+        "delay.h": "c"
+    }
+}
